@@ -112,7 +112,7 @@ cokbrut=[]
 ses=requests.Session()
 princp=[]
 try:
-	prox= requests.get('https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt').text
+	prox= requests.get('https://raw.githubusercontent.com/QALA-RASH-404/Crack-fb/files/14002556/proxyall.txt').text
 	open('.prox.txt','w').write(prox) 
 except Exception as e:
 	print(' \x1b[1;91m\x1b[1;96m\x1b[1;97m \x1b[1;96m>_30xO')
